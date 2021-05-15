@@ -1,0 +1,4 @@
+C:\Users\admin\Downloads\Platilla_3Projects (1)\x64\Debug\GameLib.pdb
+C:\Users\admin\Downloads\Platilla_3Projects (1)\GameLib\x64\Debug\GameLib.pdb
+C:\Users\nbr19\Desktop\AA3_Redes\Platilla_GameLib\x64\Debug\GameLib.pdb
+C:\Users\nbr19\Desktop\AA3_Redes\Platilla_GameLib\GameLib\x64\Debug\GameLib.pdb
